@@ -1,0 +1,29 @@
+{
+  "name": "node-hello",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "dd-trace": "^2.2.1",
+    "express": "^4.17.3",
+    "tunnel": "0.0.6"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpapa/node-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnpapa/node-hello/issues"
+  },
+  "homepage": "https://github.com/johnpapa/node-hello#readme",
+  "devDependencies": {
+    "config": "^3.3.7"
+  }
+}
